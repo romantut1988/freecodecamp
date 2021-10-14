@@ -6,6 +6,7 @@ var b;
 
 
 
+
 // Only change code below this line
 var myVar; 
 myVar = 5; 
